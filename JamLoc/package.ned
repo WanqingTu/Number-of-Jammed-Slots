@@ -1,3 +1,0 @@
-package jamloc;
-
-@license(LGPL);
